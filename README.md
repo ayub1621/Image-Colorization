@@ -53,6 +53,3 @@ cd Image-Colorization
 The program aims to produce visually pleasing colorized images based on the input grayscale images. The quality of colorization depends on various factors, including the size and diversity of the training dataset, the architecture of the autoencoder, and the effectiveness of utilizing VGG16 as a feature extractor.
 
 You can experiment with different hyperparameters, network architectures, and training strategies to improve the results. Additionally, you may consider using more advanced techniques, such as adversarial training or incorporating perceptual loss, to further enhance the colorization quality.
-
-## License
-This program is licensed under the GNU General Public License v3.0. Feel free to modify and distribute it according to the terms of the license.
