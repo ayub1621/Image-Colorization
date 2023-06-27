@@ -43,7 +43,7 @@ cd Image-Colorization
    jupyter lab
    ```
 
-2. In Jupyter Lab, open the `image_colorization.ipynb` notebook.
+2. In Jupyter Lab, open the `Autoencoder Image Colorization & VGG.ipynb` notebook.
 
 3. Follow the instructions in the notebook to load the pre-trained VGG16 model, prepare the dataset, and train the autoencoder with transfer learning.
 
