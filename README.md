@@ -7,7 +7,6 @@ This program performs image colorization using an autoencoder with transfer lear
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [License](#license)
 
 ## Introduction
 Image colorization is the process of adding color information to grayscale images. Autoencoders are a type of neural network that can learn to encode and decode data, and they have been successfully used for image colorization tasks. In this program, we utilize an autoencoder architecture with transfer learning, replacing the encoder section with the VGG16 model.
