@@ -19,14 +19,14 @@ To run this program, you need to have the following dependencies installed:
 - Python 3
 - Jupyter Lab
 - NumPy
-- OpenCV
+- scikit-image
 - TensorFlow
 - Keras
 
 You can install these dependencies using `pip` by running the following command:
 
 ```bash
-pip install jupyterlab numpy opencv-python tensorflow keras
+pip install jupyterlab numpy scikit-image tensorflow keras
 ```
 
 Once the dependencies are installed, you can clone the repository and navigate to the project directory:
