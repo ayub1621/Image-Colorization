@@ -1,4 +1,4 @@
-# Image Colorization using Autoencoder with Transfer Learning (VGG16)
+# Image Colorization using Autoencoder and VGG16 Transfer Learning
 
 This program performs image colorization using an autoencoder with transfer learning, specifically utilizing the VGG16 model as a feature extractor. The program is implemented in Jupyter Lab.
 
